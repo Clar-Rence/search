@@ -23,6 +23,11 @@ const students = [
         name: "Rygie",
         text: "C",
         href: "https://www.w3schools.com/c/index.php"
+    },
+    {
+        name: "Lorie",
+        text: "Hamster++",
+        href: "https://unsplash.com/s/photos/hamster"
     }
 ];
 
